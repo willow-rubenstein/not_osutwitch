@@ -1,5 +1,5 @@
 ![banner](https://repository-images.githubusercontent.com/391931450/48d0a8af-f00c-45ec-8f77-6e6f9fbc2408)
-- osu!twitch is a piece of software that started developmetn around May 2021 by Ashe Muller (aka EclipseVTuber, MaleVTuber, or whatever the fuck I go by right now)
+- osu!twitch is a piece of software that started development around May 2021 by Ashe Muller (aka EclipseVTuber, MaleVTuber, or whatever the fuck I go by right now)
 - it has been worked on in private with a small group of streamers to test it for around 3 months now
 
 ## How does it work?
