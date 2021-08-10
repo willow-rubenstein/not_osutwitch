@@ -3,7 +3,7 @@
 - The bot will connect to osu! using your credentials (you cannot download files directly from API anymore) to download songs
 - The songs are requested through chat, and the information the bot needs from the requests is either scraped from the urls (gets song ID), or it is generated using API integration to search queries
 - The requests work by using !osumap in a Twitch chat with either an artist and song, or a beatmap url
-- The channel it connects to is defined in options.json
+- The channel it connects to is defined in options.json (as well as a few other things, such as how high the star ratings can be that it downloads, etc.)
 - You can log in securely through the app
 
 ## How do I know this is legit?
