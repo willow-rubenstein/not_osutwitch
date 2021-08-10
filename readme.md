@@ -14,7 +14,7 @@
 - I love playing it on stream, and something that I thought of within the first few weeks of streaming it is that there needs to be a way for chat to request songs automatically. I knew it already existed for Beat Saber, and was literally shocked it didn't already exist for osu!, so I took it upon myself to do it.
 
 ## Can I contact you with feature requests for future updates or bugs?
-- Yes! A link to the Discord, which includes a feature request and bug reporting page is on the latest release, and my Discord if you want to contact me directly, is Ashe#9450
+- Yes! You can join the Discord <a href="https://discord.gg/N6pBTT7r9w">here</a>, which includes a feature request and bug reporting page, or my personal Discord if you want to contact me directly, is Ashe#9450
 
 # Special Thanks:
 - Supportive boyfriend
