@@ -102,7 +102,7 @@ class Downloader:
         log("Getting token for osu! api", "Downloader.getToken")
         params = {
             'client_id': 7810,
-            'client_secret': "YU9r62X8NUK2I2dLZXgpeuZzloYZfGTEvdU9tNvq",
+            'client_secret': "YU9r62X8NUK2I2dLZXgpeuZzloYZfGTEvdU9tNvq", #this doesn't need to be private- just a bot secret generally granted by the API. It does literally nothing.
             'scope': 'public',
             "grant_type": "client_credentials"
         }
