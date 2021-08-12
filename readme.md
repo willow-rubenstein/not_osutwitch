@@ -9,6 +9,7 @@
 ## How do I know this is legit?
 - I use this bot every time I stream osu!, so if you catch a stream, you can see it for yourself
 - It has been used by other osu! streamers on-stream
+- Source code is additionally provided
 
 ## Why are you publicizing such a powerful tool
 - I love playing it on stream, and something that I thought of within the first few weeks of streaming it is that there needs to be a way for chat to request songs automatically. I knew it already existed for Beat Saber, and was literally shocked it didn't already exist for osu!, so I took it upon myself to do it.
