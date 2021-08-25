@@ -1,4 +1,5 @@
-![banner](https://repository-images.githubusercontent.com/391931450/48d0a8af-f00c-45ec-8f77-6e6f9fbc2408)
+![osutwitch_banner](https://user-images.githubusercontent.com/83967304/130857192-2d112479-3605-4cd4-84b5-4127020d0df5.png)
+
 ## How does it work?
 - The bot will connect to osu! using your credentials (you cannot download files directly from API anymore) to download songs
 - The songs are requested through chat, and the information the bot needs from the requests is either scraped from the urls (gets song ID), or it is generated using API integration to search queries
