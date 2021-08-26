@@ -93,8 +93,8 @@ class Downloader:
     def getToken(self):
         log("Getting token for osu! api", "Downloader.getToken")
         params = {
-            'client_id': 7810,
-            'client_secret': "YU9r62X8NUK2I2dLZXgpeuZzloYZfGTEvdU9tNvq",
+            'client_id': <id>,
+            'client_secret': <secret>,
             'scope': 'public',
             "grant_type": "client_credentials"
         }
